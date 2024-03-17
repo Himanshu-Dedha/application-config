@@ -1,0 +1,3 @@
+spring:
+  application: 
+    name: LIST-SERVICE
